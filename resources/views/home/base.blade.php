@@ -35,7 +35,7 @@
 @inject('injected','App\Defaults\Custom')
 
 <!-- Start Top Header Area -->
-<div class="top-header-area">
+<div class="top-header-area" style="display: none;">
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-lg-4 col-md-4">
